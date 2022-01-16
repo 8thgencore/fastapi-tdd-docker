@@ -11,4 +11,4 @@ class TextSummary(models.Model):
         return self.url
 
 
-SummarySchema = pydantic_model_creator(TextSummary) 
+SummarySchema = pydantic_model_creator(TextSummary)
