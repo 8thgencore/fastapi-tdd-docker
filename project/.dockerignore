@@ -1,6 +1,6 @@
 env
 .dockerignore
 Dockerfile
-Dockerfile.prod
+# Dockerfile.prod
 htmlcov
 .coverage
