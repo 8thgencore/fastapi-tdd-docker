@@ -16,3 +16,6 @@ isort==5.10.1
 pytest==6.2.5
 pytest-cov==3.0.0
 pytest-xdist==2.5.0
+
+# newspaper3k
+newspaper3k==0.2.8
